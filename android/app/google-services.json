@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513564820398",
+    "project_id": "marylandbarber",
+    "storage_bucket": "marylandbarber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513564820398:android:6ee486398c38d588bbfe3f",
+        "android_client_info": {
+          "package_name": "com.marylandbarbershop.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16G4nIXukPtlipNYJePreHekAb9oB4wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
